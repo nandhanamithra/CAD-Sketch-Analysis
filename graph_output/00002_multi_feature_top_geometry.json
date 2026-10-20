@@ -1,0 +1,1713 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "type": "line",
+      "start": [
+        205.917,
+        68.996
+      ],
+      "end": [
+        106.619,
+        70.792
+      ],
+      "length": 100.292,
+      "angle_deg": 178.773,
+      "sources": [
+        "LSD_Skeleton"
+      ],
+      "merged_segment_count": 5,
+      "id": "F1"
+    },
+    {
+      "type": "line",
+      "start": [
+        204.379,
+        190.085
+      ],
+      "end": [
+        205.917,
+        68.996
+      ],
+      "length": 119.937,
+      "angle_deg": 90.258,
+      "sources": [
+        "LSD_Skeleton"
+      ],
+      "merged_segment_count": 8,
+      "id": "F2"
+    },
+    {
+      "type": "line",
+      "start": [
+        204.379,
+        190.085
+      ],
+      "end": [
+        151.807,
+        192.705
+      ],
+      "length": 52.576,
+      "angle_deg": 178.019,
+      "sources": [
+        "LSD_Skeleton"
+      ],
+      "merged_segment_count": 3,
+      "id": "F3"
+    },
+    {
+      "type": "line",
+      "start": [
+        63.81,
+        68.81
+      ],
+      "end": [
+        94.431,
+        70.489
+      ],
+      "length": 33.809,
+      "angle_deg": 0.761,
+      "sources": [
+        "LSD_Skeleton"
+      ],
+      "merged_segment_count": 2,
+      "id": "F4"
+    },
+    {
+      "type": "line",
+      "start": [
+        48.72,
+        71.292
+      ],
+      "end": [
+        47.318,
+        190.52
+      ],
+      "length": 118.779,
+      "angle_deg": 90.624,
+      "sources": [
+        "LSD_Skeleton"
+      ],
+      "merged_segment_count": 7,
+      "id": "F5"
+    },
+    {
+      "type": "line",
+      "start": [
+        135.733,
+        100.622
+      ],
+      "end": [
+        120.332,
+        123.41
+      ],
+      "length": 28.384,
+      "angle_deg": 122.392,
+      "sources": [
+        "LSD_Skeleton"
+      ],
+      "merged_segment_count": 2,
+      "id": "F6"
+    },
+    {
+      "type": "line",
+      "start": [
+        153.21,
+        124.402
+      ],
+      "end": [
+        121.283,
+        125.963
+      ],
+      "length": 32.458,
+      "angle_deg": 178.495,
+      "sources": [
+        "LSD_Skeleton"
+      ],
+      "merged_segment_count": 2,
+      "id": "F7"
+    },
+    {
+      "type": "line",
+      "start": [
+        128.131,
+        190.745
+      ],
+      "end": [
+        47.318,
+        190.52
+      ],
+      "length": 81.297,
+      "angle_deg": 0.256,
+      "sources": [
+        "LSD_Skeleton"
+      ],
+      "merged_segment_count": 6,
+      "id": "F8"
+    },
+    {
+      "type": "line",
+      "start": [
+        153.21,
+        124.402
+      ],
+      "end": [
+        135.733,
+        100.622
+      ],
+      "length": 24.982,
+      "angle_deg": 50.729,
+      "sources": [
+        "LSD_Skeleton"
+      ],
+      "merged_segment_count": 2,
+      "id": "F9"
+    },
+    {
+      "type": "line",
+      "start": [
+        63.81,
+        68.81
+      ],
+      "end": [
+        48.72,
+        71.292
+      ],
+      "length": 18.906,
+      "angle_deg": 170.508,
+      "sources": [
+        "LSD_Skeleton"
+      ],
+      "merged_segment_count": 1,
+      "id": "F10"
+    },
+    {
+      "type": "line",
+      "start": [
+        122.452,
+        168.424
+      ],
+      "end": [
+        134.618,
+        181.666
+      ],
+      "length": 18.608,
+      "angle_deg": 44.075,
+      "sources": [
+        "LSD_Skeleton"
+      ],
+      "merged_segment_count": 2,
+      "id": "F11"
+    },
+    {
+      "type": "line",
+      "start": [
+        137.016,
+        113.31
+      ],
+      "end": [
+        121.283,
+        125.963
+      ],
+      "length": 16.635,
+      "angle_deg": 146.424,
+      "sources": [
+        "LSD_Skeleton"
+      ],
+      "merged_segment_count": 2,
+      "id": "F12"
+    },
+    {
+      "type": "line",
+      "start": [
+        75.536,
+        132.187
+      ],
+      "end": [
+        63.693,
+        143.652
+      ],
+      "length": 15.245,
+      "angle_deg": 142.655,
+      "sources": [
+        "LSD_Skeleton"
+      ],
+      "merged_segment_count": 1,
+      "id": "F13"
+    },
+    {
+      "type": "line",
+      "start": [
+        123.511,
+        154.178
+      ],
+      "end": [
+        140.864,
+        146.12
+      ],
+      "length": 15.416,
+      "angle_deg": 148.694,
+      "sources": [
+        "LSD_Skeleton"
+      ],
+      "merged_segment_count": 2,
+      "id": "F14"
+    },
+    {
+      "type": "line",
+      "start": [
+        152.902,
+        157.827
+      ],
+      "end": [
+        154.231,
+        170.495
+      ],
+      "length": 15.125,
+      "angle_deg": 93.5,
+      "sources": [
+        "LSD_Skeleton"
+      ],
+      "merged_segment_count": 1,
+      "id": "F15"
+    },
+    {
+      "type": "line",
+      "start": [
+        156.32,
+        167.378
+      ],
+      "end": [
+        152.903,
+        155.182
+      ],
+      "length": 14.521,
+      "angle_deg": 77.051,
+      "sources": [
+        "LSD_Skeleton"
+      ],
+      "merged_segment_count": 1,
+      "id": "F16"
+    },
+    {
+      "type": "line",
+      "start": [
+        151.02,
+        176.07
+      ],
+      "end": [
+        156.32,
+        167.378
+      ],
+      "length": 12.868,
+      "angle_deg": 119.932,
+      "sources": [
+        "LSD_Skeleton"
+      ],
+      "merged_segment_count": 1,
+      "id": "F17"
+    },
+    {
+      "type": "line",
+      "start": [
+        88.207,
+        137.953
+      ],
+      "end": [
+        75.536,
+        132.187
+      ],
+      "length": 12.846,
+      "angle_deg": 25.605,
+      "sources": [
+        "LSD_Skeleton"
+      ],
+      "merged_segment_count": 1,
+      "id": "F18"
+    },
+    {
+      "type": "line",
+      "start": [
+        122.452,
+        168.424
+      ],
+      "end": [
+        123.511,
+        154.178
+      ],
+      "length": 12.5,
+      "angle_deg": 89.989,
+      "sources": [
+        "LSD_Skeleton"
+      ],
+      "merged_segment_count": 1,
+      "id": "F19"
+    },
+    {
+      "type": "line",
+      "start": [
+        149.16,
+        150.177
+      ],
+      "end": [
+        152.903,
+        155.182
+      ],
+      "length": 12.5,
+      "angle_deg": 53.216,
+      "sources": [
+        "LSD_Skeleton"
+      ],
+      "merged_segment_count": 1,
+      "id": "F20"
+    },
+    {
+      "type": "line",
+      "start": [
+        72.777,
+        155.663
+      ],
+      "end": [
+        63.693,
+        143.652
+      ],
+      "length": 12.304,
+      "angle_deg": 51.132,
+      "sources": [
+        "LSD_Skeleton"
+      ],
+      "merged_segment_count": 1,
+      "id": "F21"
+    },
+    {
+      "type": "circle",
+      "center": [
+        139.129,
+        163.217
+      ],
+      "radius": 19.47,
+      "circularity": 0.882,
+      "sources": [
+        "Contour_Circularity"
+      ],
+      "id": "F22"
+    },
+    {
+      "type": "circle",
+      "center": [
+        76.056,
+        146.337
+      ],
+      "radius": 13.758,
+      "circularity": 0.902,
+      "sources": [
+        "Contour_Circularity"
+      ],
+      "id": "F23"
+    },
+    {
+      "type": "circle",
+      "center": [
+        136.295,
+        120.267
+      ],
+      "radius": 24.327,
+      "circularity": 0.604,
+      "sources": [
+        "Contour_Circularity"
+      ],
+      "id": "F24"
+    },
+    {
+      "type": "contour",
+      "points": [
+        [
+          60.0,
+          69.0
+        ],
+        [
+          59.0,
+          70.0
+        ],
+        [
+          55.0,
+          70.0
+        ],
+        [
+          54.0,
+          71.0
+        ],
+        [
+          49.0,
+          71.0
+        ],
+        [
+          48.0,
+          72.0
+        ],
+        [
+          48.0,
+          82.0
+        ],
+        [
+          47.0,
+          83.0
+        ],
+        [
+          47.0,
+          84.0
+        ],
+        [
+          48.0,
+          85.0
+        ],
+        [
+          48.0,
+          90.0
+        ],
+        [
+          49.0,
+          91.0
+        ],
+        [
+          49.0,
+          98.0
+        ],
+        [
+          48.0,
+          99.0
+        ],
+        [
+          48.0,
+          123.0
+        ],
+        [
+          49.0,
+          124.0
+        ],
+        [
+          49.0,
+          127.0
+        ],
+        [
+          48.0,
+          128.0
+        ],
+        [
+          48.0,
+          138.0
+        ],
+        [
+          49.0,
+          139.0
+        ],
+        [
+          49.0,
+          144.0
+        ],
+        [
+          48.0,
+          145.0
+        ],
+        [
+          48.0,
+          151.0
+        ],
+        [
+          47.0,
+          152.0
+        ],
+        [
+          48.0,
+          153.0
+        ],
+        [
+          48.0,
+          158.0
+        ],
+        [
+          50.0,
+          158.0
+        ],
+        [
+          50.0,
+          157.0
+        ],
+        [
+          49.0,
+          156.0
+        ],
+        [
+          49.0,
+          150.0
+        ],
+        [
+          50.0,
+          149.0
+        ],
+        [
+          50.0,
+          136.0
+        ],
+        [
+          49.0,
+          135.0
+        ],
+        [
+          49.0,
+          131.0
+        ],
+        [
+          50.0,
+          130.0
+        ],
+        [
+          50.0,
+          116.0
+        ],
+        [
+          49.0,
+          115.0
+        ],
+        [
+          49.0,
+          104.0
+        ],
+        [
+          50.0,
+          103.0
+        ],
+        [
+          50.0,
+          88.0
+        ],
+        [
+          49.0,
+          87.0
+        ],
+        [
+          49.0,
+          83.0
+        ],
+        [
+          50.0,
+          82.0
+        ],
+        [
+          50.0,
+          73.0
+        ],
+        [
+          51.0,
+          72.0
+        ],
+        [
+          56.0,
+          72.0
+        ],
+        [
+          57.0,
+          71.0
+        ],
+        [
+          62.0,
+          71.0
+        ],
+        [
+          63.0,
+          70.0
+        ],
+        [
+          68.0,
+          70.0
+        ],
+        [
+          69.0,
+          71.0
+        ],
+        [
+          92.0,
+          71.0
+        ],
+        [
+          93.0,
+          72.0
+        ],
+        [
+          95.0,
+          72.0
+        ],
+        [
+          96.0,
+          71.0
+        ],
+        [
+          103.0,
+          71.0
+        ],
+        [
+          104.0,
+          72.0
+        ],
+        [
+          111.0,
+          72.0
+        ],
+        [
+          112.0,
+          71.0
+        ],
+        [
+          114.0,
+          71.0
+        ],
+        [
+          115.0,
+          70.0
+        ],
+        [
+          120.0,
+          70.0
+        ],
+        [
+          121.0,
+          71.0
+        ],
+        [
+          123.0,
+          71.0
+        ],
+        [
+          123.0,
+          69.0
+        ],
+        [
+          112.0,
+          69.0
+        ],
+        [
+          111.0,
+          70.0
+        ],
+        [
+          109.0,
+          70.0
+        ],
+        [
+          108.0,
+          71.0
+        ],
+        [
+          107.0,
+          71.0
+        ],
+        [
+          106.0,
+          70.0
+        ],
+        [
+          104.0,
+          70.0
+        ],
+        [
+          103.0,
+          69.0
+        ],
+        [
+          95.0,
+          69.0
+        ],
+        [
+          94.0,
+          70.0
+        ],
+        [
+          72.0,
+          70.0
+        ],
+        [
+          71.0,
+          69.0
+        ]
+      ],
+      "area": 234.5,
+      "perimeter": 338.326,
+      "bounding_box": {
+        "x": 47,
+        "y": 69,
+        "width": 77,
+        "height": 90
+      },
+      "sources": [
+        "OpenCV_contours"
+      ],
+      "id": "F25"
+    },
+    {
+      "type": "contour",
+      "points": [
+        [
+          157.0,
+          68.0
+        ],
+        [
+          156.0,
+          69.0
+        ],
+        [
+          134.0,
+          69.0
+        ],
+        [
+          133.0,
+          70.0
+        ],
+        [
+          133.0,
+          71.0
+        ],
+        [
+          134.0,
+          71.0
+        ],
+        [
+          135.0,
+          70.0
+        ],
+        [
+          159.0,
+          70.0
+        ],
+        [
+          160.0,
+          71.0
+        ],
+        [
+          163.0,
+          71.0
+        ],
+        [
+          164.0,
+          70.0
+        ],
+        [
+          201.0,
+          70.0
+        ],
+        [
+          202.0,
+          71.0
+        ],
+        [
+          204.0,
+          71.0
+        ],
+        [
+          206.0,
+          73.0
+        ],
+        [
+          206.0,
+          77.0
+        ],
+        [
+          205.0,
+          78.0
+        ],
+        [
+          205.0,
+          105.0
+        ],
+        [
+          204.0,
+          106.0
+        ],
+        [
+          204.0,
+          136.0
+        ],
+        [
+          203.0,
+          137.0
+        ],
+        [
+          203.0,
+          141.0
+        ],
+        [
+          204.0,
+          142.0
+        ],
+        [
+          204.0,
+          163.0
+        ],
+        [
+          203.0,
+          164.0
+        ],
+        [
+          203.0,
+          176.0
+        ],
+        [
+          204.0,
+          177.0
+        ],
+        [
+          204.0,
+          181.0
+        ],
+        [
+          205.0,
+          182.0
+        ],
+        [
+          205.0,
+          186.0
+        ],
+        [
+          206.0,
+          187.0
+        ],
+        [
+          206.0,
+          188.0
+        ],
+        [
+          204.0,
+          190.0
+        ],
+        [
+          201.0,
+          190.0
+        ],
+        [
+          200.0,
+          191.0
+        ],
+        [
+          196.0,
+          191.0
+        ],
+        [
+          195.0,
+          190.0
+        ],
+        [
+          194.0,
+          190.0
+        ],
+        [
+          193.0,
+          189.0
+        ],
+        [
+          189.0,
+          189.0
+        ],
+        [
+          188.0,
+          190.0
+        ],
+        [
+          185.0,
+          190.0
+        ],
+        [
+          184.0,
+          191.0
+        ],
+        [
+          180.0,
+          191.0
+        ],
+        [
+          179.0,
+          190.0
+        ],
+        [
+          171.0,
+          190.0
+        ],
+        [
+          170.0,
+          191.0
+        ],
+        [
+          161.0,
+          191.0
+        ],
+        [
+          160.0,
+          192.0
+        ],
+        [
+          152.0,
+          192.0
+        ],
+        [
+          151.0,
+          191.0
+        ],
+        [
+          140.0,
+          191.0
+        ],
+        [
+          139.0,
+          190.0
+        ],
+        [
+          130.0,
+          190.0
+        ],
+        [
+          129.0,
+          191.0
+        ],
+        [
+          124.0,
+          191.0
+        ],
+        [
+          123.0,
+          190.0
+        ],
+        [
+          117.0,
+          190.0
+        ],
+        [
+          116.0,
+          191.0
+        ],
+        [
+          113.0,
+          191.0
+        ],
+        [
+          112.0,
+          190.0
+        ],
+        [
+          109.0,
+          190.0
+        ],
+        [
+          108.0,
+          189.0
+        ],
+        [
+          100.0,
+          189.0
+        ],
+        [
+          99.0,
+          190.0
+        ],
+        [
+          94.0,
+          190.0
+        ],
+        [
+          93.0,
+          189.0
+        ],
+        [
+          87.0,
+          189.0
+        ],
+        [
+          86.0,
+          190.0
+        ],
+        [
+          83.0,
+          190.0
+        ],
+        [
+          82.0,
+          189.0
+        ],
+        [
+          80.0,
+          189.0
+        ],
+        [
+          79.0,
+          188.0
+        ],
+        [
+          73.0,
+          188.0
+        ],
+        [
+          72.0,
+          189.0
+        ],
+        [
+          60.0,
+          189.0
+        ],
+        [
+          59.0,
+          190.0
+        ],
+        [
+          50.0,
+          190.0
+        ],
+        [
+          49.0,
+          189.0
+        ],
+        [
+          49.0,
+          168.0
+        ],
+        [
+          48.0,
+          167.0
+        ],
+        [
+          48.0,
+          176.0
+        ],
+        [
+          47.0,
+          177.0
+        ],
+        [
+          47.0,
+          191.0
+        ],
+        [
+          48.0,
+          191.0
+        ],
+        [
+          49.0,
+          192.0
+        ],
+        [
+          57.0,
+          192.0
+        ],
+        [
+          58.0,
+          191.0
+        ],
+        [
+          71.0,
+          191.0
+        ],
+        [
+          72.0,
+          190.0
+        ],
+        [
+          78.0,
+          190.0
+        ],
+        [
+          79.0,
+          191.0
+        ],
+        [
+          80.0,
+          191.0
+        ],
+        [
+          81.0,
+          192.0
+        ],
+        [
+          86.0,
+          192.0
+        ],
+        [
+          87.0,
+          191.0
+        ],
+        [
+          108.0,
+          191.0
+        ],
+        [
+          109.0,
+          192.0
+        ],
+        [
+          125.0,
+          192.0
+        ],
+        [
+          126.0,
+          193.0
+        ],
+        [
+          128.0,
+          193.0
+        ],
+        [
+          129.0,
+          192.0
+        ],
+        [
+          131.0,
+          192.0
+        ],
+        [
+          132.0,
+          191.0
+        ],
+        [
+          138.0,
+          191.0
+        ],
+        [
+          139.0,
+          192.0
+        ],
+        [
+          150.0,
+          192.0
+        ],
+        [
+          151.0,
+          193.0
+        ],
+        [
+          154.0,
+          193.0
+        ],
+        [
+          155.0,
+          194.0
+        ],
+        [
+          160.0,
+          194.0
+        ],
+        [
+          161.0,
+          193.0
+        ],
+        [
+          165.0,
+          193.0
+        ],
+        [
+          166.0,
+          192.0
+        ],
+        [
+          186.0,
+          192.0
+        ],
+        [
+          187.0,
+          191.0
+        ],
+        [
+          193.0,
+          191.0
+        ],
+        [
+          194.0,
+          192.0
+        ],
+        [
+          197.0,
+          192.0
+        ],
+        [
+          198.0,
+          193.0
+        ],
+        [
+          200.0,
+          193.0
+        ],
+        [
+          201.0,
+          192.0
+        ],
+        [
+          205.0,
+          192.0
+        ],
+        [
+          207.0,
+          190.0
+        ],
+        [
+          207.0,
+          184.0
+        ],
+        [
+          206.0,
+          183.0
+        ],
+        [
+          206.0,
+          181.0
+        ],
+        [
+          205.0,
+          180.0
+        ],
+        [
+          205.0,
+          140.0
+        ],
+        [
+          204.0,
+          139.0
+        ],
+        [
+          204.0,
+          137.0
+        ],
+        [
+          205.0,
+          136.0
+        ],
+        [
+          205.0,
+          125.0
+        ],
+        [
+          206.0,
+          124.0
+        ],
+        [
+          206.0,
+          118.0
+        ],
+        [
+          205.0,
+          117.0
+        ],
+        [
+          205.0,
+          108.0
+        ],
+        [
+          206.0,
+          107.0
+        ],
+        [
+          206.0,
+          105.0
+        ],
+        [
+          207.0,
+          104.0
+        ],
+        [
+          207.0,
+          101.0
+        ],
+        [
+          206.0,
+          100.0
+        ],
+        [
+          206.0,
+          86.0
+        ],
+        [
+          207.0,
+          85.0
+        ],
+        [
+          207.0,
+          69.0
+        ],
+        [
+          203.0,
+          69.0
+        ],
+        [
+          202.0,
+          68.0
+        ],
+        [
+          193.0,
+          68.0
+        ],
+        [
+          192.0,
+          69.0
+        ],
+        [
+          170.0,
+          69.0
+        ],
+        [
+          169.0,
+          68.0
+        ],
+        [
+          164.0,
+          68.0
+        ],
+        [
+          163.0,
+          69.0
+        ],
+        [
+          159.0,
+          69.0
+        ],
+        [
+          158.0,
+          68.0
+        ]
+      ],
+      "area": 570.5,
+      "perimeter": 779.723,
+      "bounding_box": {
+        "x": 47,
+        "y": 68,
+        "width": 161,
+        "height": 127
+      },
+      "sources": [
+        "OpenCV_contours"
+      ],
+      "id": "F26"
+    }
+  ],
+  "edges": [
+    {
+      "constraint": "PERPENDICULAR",
+      "source": "F1",
+      "target": "F2"
+    },
+    {
+      "constraint": "PARALLEL",
+      "source": "F1",
+      "target": "F3"
+    },
+    {
+      "constraint": "PARALLEL",
+      "source": "F1",
+      "target": "F4"
+    },
+    {
+      "constraint": "PERPENDICULAR",
+      "source": "F1",
+      "target": "F5"
+    },
+    {
+      "constraint": "PARALLEL",
+      "source": "F1",
+      "target": "F7"
+    },
+    {
+      "constraint": "PARALLEL",
+      "source": "F1",
+      "target": "F8"
+    },
+    {
+      "constraint": "PERPENDICULAR",
+      "source": "F1",
+      "target": "F15"
+    },
+    {
+      "constraint": "PERPENDICULAR",
+      "source": "F1",
+      "target": "F19"
+    },
+    {
+      "constraint": "PERPENDICULAR",
+      "source": "F2",
+      "target": "F3"
+    },
+    {
+      "constraint": "PERPENDICULAR",
+      "source": "F2",
+      "target": "F4"
+    },
+    {
+      "constraint": "PARALLEL",
+      "source": "F2",
+      "target": "F5"
+    },
+    {
+      "constraint": "PERPENDICULAR",
+      "source": "F2",
+      "target": "F7"
+    },
+    {
+      "constraint": "PERPENDICULAR",
+      "source": "F2",
+      "target": "F8"
+    },
+    {
+      "constraint": "PARALLEL",
+      "source": "F2",
+      "target": "F15"
+    },
+    {
+      "constraint": "PARALLEL",
+      "source": "F2",
+      "target": "F19"
+    },
+    {
+      "constraint": "PARALLEL",
+      "source": "F3",
+      "target": "F4"
+    },
+    {
+      "constraint": "PERPENDICULAR",
+      "source": "F3",
+      "target": "F5"
+    },
+    {
+      "constraint": "PARALLEL",
+      "source": "F3",
+      "target": "F7"
+    },
+    {
+      "constraint": "PARALLEL",
+      "source": "F3",
+      "target": "F8"
+    },
+    {
+      "constraint": "PERPENDICULAR",
+      "source": "F3",
+      "target": "F19"
+    },
+    {
+      "constraint": "PERPENDICULAR",
+      "source": "F4",
+      "target": "F5"
+    },
+    {
+      "constraint": "PARALLEL",
+      "source": "F4",
+      "target": "F7"
+    },
+    {
+      "constraint": "PARALLEL",
+      "source": "F4",
+      "target": "F8"
+    },
+    {
+      "constraint": "COINCIDENT",
+      "source": "F4",
+      "target": "F10"
+    },
+    {
+      "constraint": "PERPENDICULAR",
+      "source": "F4",
+      "target": "F15"
+    },
+    {
+      "constraint": "PERPENDICULAR",
+      "source": "F4",
+      "target": "F19"
+    },
+    {
+      "constraint": "PERPENDICULAR",
+      "source": "F5",
+      "target": "F7"
+    },
+    {
+      "constraint": "PERPENDICULAR",
+      "source": "F5",
+      "target": "F8"
+    },
+    {
+      "constraint": "COINCIDENT",
+      "source": "F5",
+      "target": "F10"
+    },
+    {
+      "constraint": "PARALLEL",
+      "source": "F5",
+      "target": "F15"
+    },
+    {
+      "constraint": "PARALLEL",
+      "source": "F5",
+      "target": "F19"
+    },
+    {
+      "constraint": "COINCIDENT",
+      "source": "F6",
+      "target": "F7"
+    },
+    {
+      "constraint": "COINCIDENT",
+      "source": "F6",
+      "target": "F9"
+    },
+    {
+      "constraint": "COINCIDENT",
+      "source": "F6",
+      "target": "F12"
+    },
+    {
+      "constraint": "PARALLEL",
+      "source": "F6",
+      "target": "F17"
+    },
+    {
+      "constraint": "PARALLEL",
+      "source": "F7",
+      "target": "F8"
+    },
+    {
+      "constraint": "COINCIDENT",
+      "source": "F7",
+      "target": "F9"
+    },
+    {
+      "constraint": "COINCIDENT",
+      "source": "F7",
+      "target": "F12"
+    },
+    {
+      "constraint": "PERPENDICULAR",
+      "source": "F7",
+      "target": "F19"
+    },
+    {
+      "constraint": "PERPENDICULAR",
+      "source": "F8",
+      "target": "F15"
+    },
+    {
+      "constraint": "PERPENDICULAR",
+      "source": "F8",
+      "target": "F19"
+    },
+    {
+      "constraint": "PERPENDICULAR",
+      "source": "F9",
+      "target": "F13"
+    },
+    {
+      "constraint": "PARALLEL",
+      "source": "F9",
+      "target": "F20"
+    },
+    {
+      "constraint": "PARALLEL",
+      "source": "F9",
+      "target": "F21"
+    },
+    {
+      "constraint": "PERPENDICULAR",
+      "source": "F10",
+      "target": "F16"
+    },
+    {
+      "constraint": "COINCIDENT",
+      "source": "F11",
+      "target": "F19"
+    },
+    {
+      "constraint": "PARALLEL",
+      "source": "F12",
+      "target": "F13"
+    },
+    {
+      "constraint": "PARALLEL",
+      "source": "F12",
+      "target": "F14"
+    },
+    {
+      "constraint": "PERPENDICULAR",
+      "source": "F12",
+      "target": "F20"
+    },
+    {
+      "constraint": "COINCIDENT",
+      "source": "F13",
+      "target": "F18"
+    },
+    {
+      "constraint": "PERPENDICULAR",
+      "source": "F13",
+      "target": "F20"
+    },
+    {
+      "constraint": "PERPENDICULAR",
+      "source": "F13",
+      "target": "F21"
+    },
+    {
+      "constraint": "COINCIDENT",
+      "source": "F14",
+      "target": "F19"
+    },
+    {
+      "constraint": "COINCIDENT",
+      "source": "F15",
+      "target": "F16"
+    },
+    {
+      "constraint": "COINCIDENT",
+      "source": "F15",
+      "target": "F17"
+    },
+    {
+      "constraint": "PARALLEL",
+      "source": "F15",
+      "target": "F19"
+    },
+    {
+      "constraint": "COINCIDENT",
+      "source": "F15",
+      "target": "F20"
+    },
+    {
+      "constraint": "COINCIDENT",
+      "source": "F16",
+      "target": "F17"
+    },
+    {
+      "constraint": "COINCIDENT",
+      "source": "F16",
+      "target": "F20"
+    },
+    {
+      "constraint": "PERPENDICULAR",
+      "source": "F17",
+      "target": "F18"
+    },
+    {
+      "constraint": "PARALLEL",
+      "source": "F20",
+      "target": "F21"
+    },
+    {
+      "constraint": "INNER_CUTOUT",
+      "source": "F22",
+      "target": "F26"
+    },
+    {
+      "constraint": "INNER_CUTOUT",
+      "source": "F23",
+      "target": "F25"
+    },
+    {
+      "constraint": "INNER_CUTOUT",
+      "source": "F23",
+      "target": "F26"
+    },
+    {
+      "constraint": "INNER_CUTOUT",
+      "source": "F24",
+      "target": "F26"
+    }
+  ]
+}

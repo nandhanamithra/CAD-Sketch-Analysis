@@ -1,0 +1,96 @@
+{
+  "source_graph": "00002_multi_feature_top_geometry.json",
+  "total_candidates": 3,
+  "top_rank_candidate": "3D_CSG_EXTRUSION_01",
+  "candidates": [
+    {
+      "candidate_id": "3D_CSG_EXTRUSION_01",
+      "description": "Multi-primitive CSG extrusion with cylindrical cutouts",
+      "type": "CSG_SOLID",
+      "faces_detected": 4,
+      "operations": [
+        {
+          "op": "EXTRUDE",
+          "target": "BASE_PLATE",
+          "vector": [
+            0,
+            0,
+            1
+          ],
+          "depth_px": 40.0
+        },
+        {
+          "op": "EXTRUDE",
+          "target": "CENTRAL_PYRAMID",
+          "vector": [
+            0,
+            0,
+            1
+          ],
+          "depth_px": 65.0
+        },
+        {
+          "op": "SUBTRACT",
+          "target": "CYLINDRICAL_CUTOUTS",
+          "count": 3
+        }
+      ],
+      "manifold_assumption": true,
+      "confidence_score": 0.864,
+      "score_breakdown": {
+        "manifold_score": 1.0,
+        "topology_alignment": 0.68,
+        "csg_simplicity": 0.9
+      }
+    },
+    {
+      "candidate_id": "3D_PLATE_MODEL_02",
+      "description": "Single-body flat profile with through-holes",
+      "type": "PLATE_EXTRUSION",
+      "faces_detected": 4,
+      "operations": [
+        {
+          "op": "EXTRUDE",
+          "target": "OUTER_PROFILE",
+          "vector": [
+            0,
+            0,
+            1
+          ],
+          "depth_px": 15.0
+        },
+        {
+          "op": "SUBTRACT",
+          "target": "INNER_CIRCLES",
+          "count": 3
+        }
+      ],
+      "manifold_assumption": true,
+      "confidence_score": 0.764,
+      "score_breakdown": {
+        "manifold_score": 1.0,
+        "topology_alignment": 0.68,
+        "csg_simplicity": 0.5
+      }
+    },
+    {
+      "candidate_id": "3D_SHEET_SURFACE_03",
+      "description": "Unextruded 2D wireframe planar sheet",
+      "type": "SURFACE_SHEET",
+      "faces_detected": 4,
+      "operations": [
+        {
+          "op": "CREATE_SURFACE",
+          "target": "PLANAR_PATCHES"
+        }
+      ],
+      "manifold_assumption": false,
+      "confidence_score": 0.444,
+      "score_breakdown": {
+        "manifold_score": 0.2,
+        "topology_alignment": 0.68,
+        "csg_simplicity": 0.5
+      }
+    }
+  ]
+}
