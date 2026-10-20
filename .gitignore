@@ -1,0 +1,7 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.vscode/
+ortho_sketch_dataset_4000/

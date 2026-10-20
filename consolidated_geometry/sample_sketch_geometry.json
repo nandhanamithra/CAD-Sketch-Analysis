@@ -1,0 +1,87 @@
+{
+  "image_id": "sample_sketch",
+  "feature_count": 4,
+  "features": [
+    {
+      "type": "line",
+      "start": [
+        20.0,
+        30.0
+      ],
+      "end": [
+        180.0,
+        30.0
+      ],
+      "length": 160.0,
+      "angle_deg": 0.0,
+      "sources": [
+        "LSD",
+        "RANSAC"
+      ],
+      "id": "F1"
+    },
+    {
+      "type": "line",
+      "start": [
+        20.0,
+        30.0
+      ],
+      "end": [
+        20.0,
+        160.0
+      ],
+      "length": 130.0,
+      "angle_deg": 90.0,
+      "sources": [
+        "LSD"
+      ],
+      "id": "F2"
+    },
+    {
+      "type": "circle",
+      "center": [
+        100.0,
+        100.0
+      ],
+      "radius": 25.0,
+      "sources": [
+        "HoughCircle",
+        "RANSAC"
+      ],
+      "id": "F3"
+    },
+    {
+      "type": "contour",
+      "points": [
+        [
+          30.0,
+          40.0
+        ],
+        [
+          150.0,
+          40.0
+        ],
+        [
+          150.0,
+          120.0
+        ],
+        [
+          30.0,
+          120.0
+        ]
+      ],
+      "area": 9600.0,
+      "perimeter": 400.0,
+      "bounding_box": {
+        "x": 30,
+        "y": 40,
+        "width": 121,
+        "height": 81
+      },
+      "sources": [
+        "OpenCV_contours"
+      ],
+      "id": "F4"
+    }
+  ]
+}

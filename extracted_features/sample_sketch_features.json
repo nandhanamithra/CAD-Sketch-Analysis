@@ -1,0 +1,97 @@
+{
+  "image_id": "sample_sketch",
+  "input_feature_count": 4,
+  "extracted_feature_count": 4,
+  "relationship_count": 2,
+  "features": [
+    {
+      "id": "F1",
+      "type": "line_segment",
+      "start": [
+        20.0,
+        30.0
+      ],
+      "end": [
+        180.0,
+        30.0
+      ],
+      "length_px": 160.0,
+      "orientation_deg": 0.0,
+      "sources": [
+        "LSD",
+        "RANSAC"
+      ]
+    },
+    {
+      "id": "F2",
+      "type": "line_segment",
+      "start": [
+        20.0,
+        30.0
+      ],
+      "end": [
+        20.0,
+        160.0
+      ],
+      "length_px": 130.0,
+      "orientation_deg": 90.0,
+      "sources": [
+        "LSD"
+      ]
+    },
+    {
+      "id": "F3",
+      "type": "circle",
+      "center": [
+        100.0,
+        100.0
+      ],
+      "radius_px": 25.0,
+      "diameter_px": 50.0,
+      "area_px2": 1963.495,
+      "sources": [
+        "HoughCircle",
+        "RANSAC"
+      ]
+    },
+    {
+      "id": "F4",
+      "type": "contour",
+      "area_px2": 9600.0,
+      "perimeter_px": 400.0,
+      "bounding_box": {
+        "x": 30,
+        "y": 40,
+        "width": 121,
+        "height": 81
+      },
+      "sources": [
+        "OpenCV_contours"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "type": "perpendicular",
+      "between": [
+        "F1",
+        "F2"
+      ],
+      "confidence": "heuristic"
+    },
+    {
+      "type": "connected_endpoints",
+      "between": [
+        "F1",
+        "F2"
+      ],
+      "confidence": "heuristic"
+    }
+  ],
+  "notes": [
+    "Measurements are in image pixels, not real-world CAD units.",
+    "Relationships are heuristic and depend on the configured tolerances.",
+    "Circle containment is checked against a contour bounding box, not the exact contour.",
+    "These are candidate relationships for later CAD-constraint inference."
+  ]
+}

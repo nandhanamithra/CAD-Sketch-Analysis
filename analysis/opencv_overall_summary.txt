@@ -1,0 +1,9 @@
+total_images_found: 100
+successfully_processed: 100
+read_errors: 0
+mean_contour_count: 9.94
+median_contour_count: 6.0
+mean_hough_line_count: 24.24
+median_hough_line_count: 18.0
+mean_foreground_ratio: 0.04156692504882813
+mean_edge_pixel_ratio: 0.0288616943359375
